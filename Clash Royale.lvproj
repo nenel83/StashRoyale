@@ -112,7 +112,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{81779BCB-415E-423A-AE19-9B9ADDA2D763}</Property>
-				<Property Name="Bld_version.build" Type="Int">4</Property>
+				<Property Name="Bld_version.build" Type="Int">6</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">StashRoyale.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/StashRoyale.exe</Property>
@@ -124,7 +124,7 @@
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/StashRoyale.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{629B0D74-3C50-40DA-B2ED-4142E9919293}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{F2E7FA2B-398D-4804-990B-4FB9E3689E6B}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/ClashRoyale.lvclass/Main.vi</Property>
