@@ -1,0 +1,14 @@
+{
+    "ARCH":"DESKTOP_WIN_32",
+    "BUILD TYPE":"Debug",
+    "Products":[
+        {
+            "Name":"Actor Framework",
+            "Version":"3.1.1.0"
+        },
+        {
+            "Name":"Popup Loading Toolkit",
+            "Version":"3.0.0.1"
+        }
+    ]
+}
