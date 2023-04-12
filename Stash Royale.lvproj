@@ -64,10 +64,10 @@
 				<Item Name="Get LV Class Name.vi" Type="VI" URL="../support/Popup Loading Toolkit.lvlibp/1abvi3w/vi.lib/Utility/LVClass/Get LV Class Name.vi"/>
 			</Item>
 		</Item>
-		<Item Name="ClashRoyale.lvclass" Type="LVClass" URL="../ClashRoyale/ClashRoyale.lvclass"/>
-		<Item Name="InitParameters.ctl" Type="VI" URL="../ClashRoyale/InitParameters.ctl"/>
+		<Item Name="InitParameters.ctl" Type="VI" URL="../StashRoyale/InitParameters.ctl"/>
 		<Item Name="StashRoyale.ico" Type="Document" URL="../StashRoyale.ico"/>
 		<Item Name="StashRoyale.ini" Type="Document" URL="../StashRoyale.ini"/>
+		<Item Name="StashRoyale.lvclass" Type="LVClass" URL="../StashRoyale/StashRoyale.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
@@ -127,7 +127,7 @@
 				<Property Name="Source[0].itemID" Type="Str">{F2E7FA2B-398D-4804-990B-4FB9E3689E6B}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/My Computer/ClashRoyale.lvclass/Main.vi</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/StashRoyale.lvclass/Main.vi</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
